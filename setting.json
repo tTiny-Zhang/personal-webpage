@@ -23,7 +23,7 @@
             "auto-hide": true
         },
         "music":{
-            "enabled": true,
+            "enabled": false,
             "data": {
                 "music-1":{
                     "name": "玫瑰枯萎在窗台",
