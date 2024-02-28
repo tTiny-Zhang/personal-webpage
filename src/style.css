@@ -146,7 +146,7 @@ html {
 .MusicName{
     cursor: pointer;
 }
-.iframeMusic{
+#iframeMusic{
     position: absolute;
     left: 30%;
     top: 10%;
