@@ -1,33 +1,33 @@
 {
     "basic environment": {
-        "website name": "",
-        "subtitle": "",
-        "meta description": "",
-        "holder name": "",
+        "website name": "tTiny",
+        "subtitle": "tiny",
+        "meta description": "苦乐自当，无有代者",
+        "holder name": "tTiny",
         "holder icon":{
-            "method": "",
+            "method": "local",
             "local":{
-                "url": ""
+                "url": "sub-background.png"
             },
             "gravatar": {
                 "email": ""
             }
         },
         "background":{
-            "method": "",
-            "url": ""
+            "method": "bing",
+            "url": "http://api.btstu.cn/sjbz/?1x=dongmain"
         },
         "signature":{
-            "enabled": "",
-            "content": "",
-            "auto-hide": ""
+            "enabled": true,
+            "content": ":)",
+            "auto-hide": true
         },
         "music":{
-            "enabled": "",
+            "enabled": true,
             "data": {
                 "music-1":{
-                    "name": "",
-                    "url": ""
+                    "name": "玫瑰枯萎在窗台",
+                    "url": "https://c6.y.qq.com/base/fcgi-bin/u?__=7uwucyXANEHZ"
                 }
             }
         }
